@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ftc_app-master/TeamCode/build/intermediates/jniLibs/debug/FtcCommon-release-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ftc_app-master/TeamCode/build/intermediates/jniLibs/debug/Blocks-release-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ftc_app-master/TeamCode/build/intermediates/jniLibs/debug/RobotCore-release-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ftc_app-master/TeamCode/build/intermediates/jniLibs/debug/Vuforia.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ftc_app-master/TeamCode/build/intermediates/jniLibs/debug/Hardware-release-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
